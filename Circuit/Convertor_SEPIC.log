@@ -1,23 +1,28 @@
-Circuit: * C:\Users\tuguialexand\Desktop\Disertatie\Circuit\Convertor_SEPIC.asc
+Circuit: * C:\Users\tuguialexand\Desktop\Disertatie_repo\Circuit\Convertor_SEPIC.asc
 
 Direct Newton iteration for .op point succeeded.
-Heightened Def Con from 0.0305567 to 0.0305567
+Heightened Def Con from 0.0031225 +++++++++++++++++++++++to 0.0031225
+Heightened Def Con from 0.004565 to 0.004565
+Heightened Def Con from 0.0052375 to 0.0052375
+Heightened Def Con from 0.00528 to 0.00528
+Heightened Def Con from 0.0086275 to 0.0086275
+Heightened Def Con from 0.0335333 to 0.0335333
 
-Date: Thu Dec 11 14:39:16 2025
-Total elapsed time: 376.171 seconds.
+Date: Tue Jan 13 13:50:45 2026
+Total elapsed time: 26.177 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 166370609
-traniter = 166370603
-tranpoints = 61177994
-accept = 45664191
-rejected = 15513804
-matrix size = 12
+totiter = 11626839
+traniter = 11626833
+tranpoints = 4704242
+accept = 3409979
+rejected = 1294292
+matrix size = 11
 fillins = 1
 solver = Normal
 Avg thread counts: 1.0/1.0/1.0/1.0
-Matrix Compiler1: 562 bytes object code size  0.2/0.2/[0.1]
-Matrix Compiler2: off  [0.1]/0.2/0.1
+Matrix Compiler1: 512 bytes object code size  0.2/0.2/[0.1]
+Matrix Compiler2: 793 bytes object code size  0.1/0.2/[0.1]
 
